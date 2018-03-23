@@ -1,5 +1,7 @@
-# Lua
+# vRP Reloaded
 
-Some Lua stuff i made
+I make changes based on the Original vRP Framework
 
-i will add more soon or later.
+Currently i'm working on a new Layout for Menu based things!
+
+Soon i will add some screenshots.
